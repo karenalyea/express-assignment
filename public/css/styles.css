@@ -1,0 +1,16 @@
+.blog-font {
+    display: block;
+    font-family: monospace;
+    margin: 1em 0px;
+  }
+
+  .label {
+    color: red;
+    font-weight: bold;
+  }
+  .blog-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+
+  }
